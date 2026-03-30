@@ -49,6 +49,9 @@ Shraman Bera
 25BEC10089
 
 
+
+
+
 (Internship Inquiry)
 
 Dear Sir/Madam,
@@ -63,6 +66,11 @@ Thank you for your time and consideration. I look forward to your response.
 Yours Sincerely,
 Shraman Bera
 25BEC10089
+
+
+
+
+
 
 
 Poor digital communication can lead to serious misunderstandings and missed opportunities. For example, if a student sends an email to a professor without a subject line or proper greeting, it may appear unprofessional and may even be ignored. Similarly, unclear or rude tone in messages can create a negative impression.
