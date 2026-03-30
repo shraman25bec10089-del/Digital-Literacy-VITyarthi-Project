@@ -33,7 +33,8 @@ https://docs.google.com/forms/d/e/1FAIpQLSedSdGXgqeCrIDYTxq8XZGtY4cEeSBHANrpBmIe
 
 
 # TASK 4:
-(EMAIL FOR EXTENSION REQUEST)
+
+***EMAIL FOR EXTENSION REQUEST***  
 
 Dear Professor,
 I hope you are doing well. I am writing to request a short extension for the assignment submission scheduled for this week.
@@ -50,9 +51,7 @@ Shraman Bera
 
 
 
-
-
-(Internship Inquiry)
+***INTERNSHIP INQUIRY***
 
 Dear Sir/Madam,
 I hope this message finds you well. I am a Btech ECE student currently in my 1st at VIT bhopal University, and I am writing to express my interest in a summer internship opportunity at your organization.
@@ -69,9 +68,7 @@ Shraman Bera
 
 
 
-Etiquette checklist  
-
-
+***Etiquette checklist:***  
 
 Poor digital communication can lead to serious misunderstandings and missed opportunities. For example, if a student sends an email to a professor without a subject line or proper greeting, it may appear unprofessional and may even be ignored. Similarly, unclear or rude tone in messages can create a negative impression.
 
@@ -94,7 +91,7 @@ Students and young individuals are often targeted because they may not always ve
 
 Raising awareness about phishing and adopting safe online practices can significantly reduce the risk of such attacks.
 
-Prevention Checklist:
+***Prevention Checklist:***
 
 Always verify sender email before clicking links
 Do not share OTP or passwords with anyone
