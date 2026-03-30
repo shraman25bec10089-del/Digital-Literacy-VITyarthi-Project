@@ -1,4 +1,4 @@
-## digital-literacy-project
+## Digital-Literacy-Project
 
 
 # TASK 1:
