@@ -44,9 +44,9 @@ I kindly request you to consider my situation and grant me an extension of a few
 
 Thank you for your time and consideration.
 
-Yours Sincerely,
-Shraman Bera
-25BEC10089
+Yours Sincerely,  
+Shraman Bera  
+25BEC10089  
 
 
 
@@ -63,13 +63,13 @@ I would appreciate it if you could provide information regarding any available i
 
 Thank you for your time and consideration. I look forward to your response.
 
-Yours Sincerely,
-Shraman Bera
-25BEC10089
+Yours Sincerely,  
+Shraman Bera  
+25BEC10089  
 
 
 
-
+Etiquette checklist  
 
 
 
