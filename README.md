@@ -81,6 +81,10 @@ This task helped me understand the importance of professional communication in a
 
 
 # TASK 5:
+Case Study report on Cybercrimes
+[Case Study on CyberCrimes.pdf](https://github.com/user-attachments/files/26360624/Case.Study.on.CyberCrimes.pdf)
+
+One of the example is Phishing
 
 Phishing is a type of cybercrime where attackers trick individuals into revealing sensitive information such as passwords, bank details, or OTPs by pretending to be a trustworthy entity. This is commonly done through emails, messages, or fake websites.
 
