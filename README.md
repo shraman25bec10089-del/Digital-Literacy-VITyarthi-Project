@@ -36,7 +36,7 @@ https://docs.google.com/forms/d/e/1FAIpQLSedSdGXgqeCrIDYTxq8XZGtY4cEeSBHANrpBmIe
 
 ***EMAIL FOR EXTENSION REQUEST***  
 
-Dear Professor,
+Dear Professor,  
 I hope you are doing well. I am writing to request a short extension for the assignment submission scheduled for this week.
 
 Due to a minor health issue, I was unable to complete the work within the given deadline. I assure you that I am working on the assignment and will submit it as soon as possible if granted a brief extension.
@@ -53,7 +53,7 @@ Shraman Bera
 
 ***INTERNSHIP INQUIRY***
 
-Dear Sir/Madam,
+Dear Sir/Madam,  
 I hope this message finds you well. I am a Btech ECE student currently in my 1st at VIT bhopal University, and I am writing to express my interest in a summer internship opportunity at your organization.
 
 I am eager to gain practical experience and apply my academic knowledge in a professional environment. I am particularly interested in developing my skills and contributing to your team.
